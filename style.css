@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+th,td{
+    /* border: 2px solid gainsboro; */
+    padding: 25px;
+
+}
+.g{
+   
+ font-size: 1.5rem;
+    background-color: #03ac8d;
+    color: aliceblue;
+}
+button{
+   background-color: #03ac8d;
+   border: none;
+   border-radius: 5px;
+   padding: 5px 30px 5px 30px;
+}
+.h{
+    background-color:#c4c4c4;
+}
+.z{
+    background-color:#c4c4c4;
+}
+.k{
+    background-color:#b8b2b9;
+}
